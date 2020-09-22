@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600110180 source:c:\users\pwboy\onedrive\documents\c programs\fibonacci\fibonaccirecursion.c
+	<stdio.h>
+
+1600110514 source:c:\users\pwboy\onedrive\documents\c programs\fibonacci\fibonaccinorecursion.c
+	<stdio.h>
+
